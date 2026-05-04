@@ -1,0 +1,18 @@
+Processing Complete: xtts_dataset/train
+  - Total samples seen:  7540
+  - Successfully saved: 7538
+  - Skipped (Empty txt): 1
+  - Skipped (Too short): 1
+------------------------------
+Processing Complete: xtts_dataset/val
+  - Total samples seen:  942
+  - Successfully saved: 942
+  - Skipped (Empty txt): 0
+  - Skipped (Too short): 0
+------------------------------
+Processing Complete: xtts_dataset/test
+  - Total samples seen:  943
+  - Successfully saved: 943
+  - Skipped (Empty txt): 0
+  - Skipped (Too short): 0
+------------------------------

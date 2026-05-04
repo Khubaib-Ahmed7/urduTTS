@@ -1,0 +1,60 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "common-voice-urdu-processed",
+  "dataset_size": 351772225,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/UmarRamzan/common-voice-urdu-processed@3fddace6c5c3ca1ce23a4a15e95e65803b62ca9b/data/train-00000-of-00001.parquet": {
+      "num_bytes": 233862599,
+      "checksum": null
+    },
+    "hf://datasets/UmarRamzan/common-voice-urdu-processed@3fddace6c5c3ca1ce23a4a15e95e65803b62ca9b/data/test-00000-of-00001.parquet": {
+      "num_bytes": 111952986,
+      "checksum": null
+    }
+  },
+  "download_size": 345815585,
+  "features": {
+    "path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "audio": {
+      "sampling_rate": 48000,
+      "_type": "Audio"
+    },
+    "sentence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "variant": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 697587810,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 237706945,
+      "num_examples": 9425,
+      "dataset_name": "common-voice-urdu-processed"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 114065280,
+      "num_examples": 4056,
+      "dataset_name": "common-voice-urdu-processed"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
