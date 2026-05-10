@@ -1,0 +1,162 @@
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+00PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+01PM-d372552
+
+ > Model has 441018563 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+01PM-d372552
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+01PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+01PM-d372552
+
+ > Model has 441018563 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+01PM-d372552
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+01PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+02PM-d372552
+
+ > Model has 441018563 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+02PM-d372552
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+02PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+03PM-d372552
+
+ > Model has 441018563 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+03PM-d372552
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+03PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+03PM-d372552
+
+ > Model has 441018563 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+03PM-d372552
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+03PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+04PM-d372552
+
+ > Model has 441018563 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+04PM-d372552
+
+[1m > TRAINING (2026-05-10 16:04:15) [0m
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+04PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+05PM-d372552
+
+ > Model has 441018563 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+05PM-d372552
+
+[1m > TRAINING (2026-05-10 16:05:45) [0m
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+05PM-d372552
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=/Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+06PM-d372552
+
+ > Model has 466874863 parameters
+
+[4m[1m > EPOCH: 0/10[0m
+ --> /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+06PM-d372552
+
+[1m > TRAINING (2026-05-10 16:06:20) [0m
+ ! Run is removed from /Users/robbannn/Desktop/PROJECTS/urduTTS/xtts_dataset/output/run-May-10-2026_04+06PM-d372552

@@ -3,3 +3,4 @@
 *.arrow
 *.lock
 models/
+xtts_dataset.zip
